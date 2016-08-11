@@ -508,6 +508,7 @@ fieldset[disabled] .btn-success.active {
 }
 #leadcontainer {
     background: /*url(images/backgrounds/bg_leadcontainer.jpg) repeat-x 0px 0px #252525 */ #444;
+    opacity: 0.8;
     color: #ddd;
     border-top: 4px solid #C29704;
     border-bottom: 4px solid #C29704;
