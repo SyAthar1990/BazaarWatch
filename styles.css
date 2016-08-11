@@ -69,8 +69,9 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: white;
-  color: pink;
+  /*background-image: url("DSC_0412.jpg");
+  background-size: 4000px 3000px;*/  
+  background-color: #D6ECE2;
 }
 header .container {
   padding-top: 100px;
@@ -107,17 +108,17 @@ header .intro-text .description {
   }
 }
 .navbar-custom {
-  background: #2C3E50;
+  background: #D6ECE2;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  border: none;
+  border-bottom: 10px dotted #B2043B;
 }
 .navbar-custom a:focus {
   outline: none;
 }
 .navbar-custom .navbar-brand {
-  color: white;
+  color: #2C3E50;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -510,8 +511,8 @@ fieldset[disabled] .btn-success.active {
     background: /*url(images/backgrounds/bg_leadcontainer.jpg) repeat-x 0px 0px #252525 */ #444;
     opacity: 0.8;
     color: #ddd;
-    border-top: 4px solid #C29704;
-    border-bottom: 4px solid #C29704;
+    border-top: 9px double #ECDBD6;
+    border-bottom: 5px dotted #ECDBD6;
     margin-left: 2px;
     margin-right: 2px;
     width: 1100px;
