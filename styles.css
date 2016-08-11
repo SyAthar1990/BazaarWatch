@@ -68,8 +68,8 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 header {
-  text-align: left;
-  background: #18BC9C;
+  text-align: center;
+  background: white;
   color: pink;
 }
 header .container {
@@ -526,6 +526,7 @@ fieldset[disabled] .btn-success.active {
 }
 #leadheader {
     display: block;
+    
 }
 ul, menu, dir {
     display: block;
