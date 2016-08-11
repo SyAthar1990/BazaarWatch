@@ -540,3 +540,9 @@ ul, menu, dir {
     color: #ddd;
     text-decoration: none;
 }
+
+#eventtoday h3 {
+color: red;
+text-align: center;
+font-size: 2em;
+}
