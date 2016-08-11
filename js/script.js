@@ -3,7 +3,7 @@ function initialize(){
     center: new google.maps.LatLng(23.0,90.0),
     zoom: 8,
     mapTypeId: google.maps.MapTypeId.HYBRID,
-    scrollwheel: false,
+    scrollwheel: true,
     draggable: true,
     panControl: true,
     zoomControl: true,
