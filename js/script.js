@@ -1,3 +1,4 @@
+RI.init();
 function initialize(){
   var mapOptions ={
     center: new google.maps.LatLng(23.0,90.0),
