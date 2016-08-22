@@ -104,10 +104,13 @@ header .intro-text .description {
   header .intro-text .name {
     font-size: 4.75em;
   }
-  header .intro-text .subhead {
+  header .intro-text {
     font-size: 1em;
     
   }
+  header .logo {
+  	margin-top: 0;
+  	
 }
 .navbar-custom {
   background: #D6ECE2;
