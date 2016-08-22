@@ -117,7 +117,8 @@ header .intro-text .description {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   /*text-transform: uppercase;*/
   font-weight: 700;
-  border-bottom: 10px dotted #B2043B;
+  border-bottom: 15px dotted #2eaaa8;
+  /*border-bottom: 15px dotted #B2043B;*/
 }
 .navbar-custom a:focus {
   outline: none;
