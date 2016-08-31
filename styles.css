@@ -91,6 +91,12 @@ header .intro-text .lead {
   font-size: 2em;
 
 }
+header .subheading {
+	text-align: center; 
+	color:grey;
+	font-size: 200%
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 header .intro-text .description {
   font-size: 1.25em;
   background: white;
