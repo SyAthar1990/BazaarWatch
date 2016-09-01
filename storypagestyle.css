@@ -53,3 +53,15 @@
 .jssora02r.jssora02rdn {
 	background-position: -63px -33px;
 }
+.captionstyle {
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	width: 450px;
+	height: 30px;
+	background-color: rgba(235,81,0,0.5);
+	font-size: 30px;
+	color: #ffffff;
+	line-height: 30px;
+	text-align: center;
+}
